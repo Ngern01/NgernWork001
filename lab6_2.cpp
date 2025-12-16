@@ -1,6 +1,11 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
+float deg2rad(float a1,float a2){
+    if(a1 and a2 %M_PI==0){
+    }
+}
 
 int main(){
     double l1,l2,a1,a2,xcomp,ycomp,result_vec_length,result_vec_direction;
